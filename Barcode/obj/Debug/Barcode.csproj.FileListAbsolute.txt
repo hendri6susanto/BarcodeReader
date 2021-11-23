@@ -1,0 +1,15 @@
+C:\Users\Hendri\source\repos\Barcode\Barcode\bin\Debug\Barcode.exe.config
+C:\Users\Hendri\source\repos\Barcode\Barcode\bin\Debug\Barcode.exe
+C:\Users\Hendri\source\repos\Barcode\Barcode\bin\Debug\Barcode.pdb
+C:\Users\Hendri\source\repos\Barcode\Barcode\obj\Debug\Barcode.csproj.AssemblyReference.cache
+C:\Users\Hendri\source\repos\Barcode\Barcode\obj\Debug\Barcode.Form1.resources
+C:\Users\Hendri\source\repos\Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+C:\Users\Hendri\source\repos\Barcode\Barcode\obj\Debug\Barcode.csproj.GenerateResource.cache
+C:\Users\Hendri\source\repos\Barcode\Barcode\obj\Debug\Barcode.csproj.CoreCompileInputs.cache
+C:\Users\Hendri\source\repos\Barcode\Barcode\obj\Debug\Barcode.exe
+C:\Users\Hendri\source\repos\Barcode\Barcode\obj\Debug\Barcode.pdb
+C:\Users\Hendri\source\repos\Barcode\Barcode\bin\Debug\QRCoder.dll
+C:\Users\Hendri\source\repos\Barcode\Barcode\bin\Debug\zxing.dll
+C:\Users\Hendri\source\repos\Barcode\Barcode\bin\Debug\zxing.presentation.dll
+C:\Users\Hendri\source\repos\Barcode\Barcode\bin\Debug\zxing.xml
+C:\Users\Hendri\source\repos\Barcode\Barcode\bin\Debug\zxing.presentation.xml
