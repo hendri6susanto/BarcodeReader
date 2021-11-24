@@ -35,6 +35,7 @@ namespace Barcode
             this.saveBtn = new System.Windows.Forms.Button();
             this.decodeBtn = new System.Windows.Forms.Button();
             this.decodeTB = new System.Windows.Forms.TextBox();
+            this.clearBtn = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).BeginInit();
             this.SuspendLayout();
             // 
@@ -90,11 +91,22 @@ namespace Barcode
             this.decodeTB.Size = new System.Drawing.Size(397, 20);
             this.decodeTB.TabIndex = 5;
             // 
+            // clearBtn
+            // 
+            this.clearBtn.Location = new System.Drawing.Point(583, 76);
+            this.clearBtn.Name = "clearBtn";
+            this.clearBtn.Size = new System.Drawing.Size(75, 23);
+            this.clearBtn.TabIndex = 6;
+            this.clearBtn.Text = "Clear";
+            this.clearBtn.UseVisualStyleBackColor = true;
+            this.clearBtn.Click += new System.EventHandler(this.clearBtn_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.clearBtn);
             this.Controls.Add(this.decodeTB);
             this.Controls.Add(this.decodeBtn);
             this.Controls.Add(this.saveBtn);
@@ -117,6 +129,7 @@ namespace Barcode
         private System.Windows.Forms.Button saveBtn;
         private System.Windows.Forms.Button decodeBtn;
         private System.Windows.Forms.TextBox decodeTB;
+        private System.Windows.Forms.Button clearBtn;
     }
 }
 

@@ -13,3 +13,18 @@ C:\Users\Hendri\source\repos\Barcode\Barcode\bin\Debug\zxing.dll
 C:\Users\Hendri\source\repos\Barcode\Barcode\bin\Debug\zxing.presentation.dll
 C:\Users\Hendri\source\repos\Barcode\Barcode\bin\Debug\zxing.xml
 C:\Users\Hendri\source\repos\Barcode\Barcode\bin\Debug\zxing.presentation.xml
+D:\Barcode Reader 2\BarcodeReader\Barcode\bin\Debug\Barcode.exe.config
+D:\Barcode Reader 2\BarcodeReader\Barcode\bin\Debug\Barcode.exe
+D:\Barcode Reader 2\BarcodeReader\Barcode\bin\Debug\Barcode.pdb
+D:\Barcode Reader 2\BarcodeReader\Barcode\bin\Debug\QRCoder.dll
+D:\Barcode Reader 2\BarcodeReader\Barcode\bin\Debug\zxing.dll
+D:\Barcode Reader 2\BarcodeReader\Barcode\bin\Debug\zxing.presentation.dll
+D:\Barcode Reader 2\BarcodeReader\Barcode\bin\Debug\zxing.xml
+D:\Barcode Reader 2\BarcodeReader\Barcode\bin\Debug\zxing.presentation.xml
+D:\Barcode Reader 2\BarcodeReader\Barcode\obj\Debug\Barcode.csproj.AssemblyReference.cache
+D:\Barcode Reader 2\BarcodeReader\Barcode\obj\Debug\Barcode.Form1.resources
+D:\Barcode Reader 2\BarcodeReader\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+D:\Barcode Reader 2\BarcodeReader\Barcode\obj\Debug\Barcode.csproj.GenerateResource.cache
+D:\Barcode Reader 2\BarcodeReader\Barcode\obj\Debug\Barcode.csproj.CoreCompileInputs.cache
+D:\Barcode Reader 2\BarcodeReader\Barcode\obj\Debug\Barcode.exe
+D:\Barcode Reader 2\BarcodeReader\Barcode\obj\Debug\Barcode.pdb

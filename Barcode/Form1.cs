@@ -55,10 +55,10 @@ namespace Barcode
 
         private void saveBtn_Click(object sender, EventArgs e)
         {
-            string location = @"C:\Users\Hendri\source\repos\Barcode\QRImages";
+          //  string location = @"C:\Users\Hendri\source\repos\Barcode\QRImages";
             var dialog = new SaveFileDialog();
 
-            dialog.InitialDirectory = location;
+           // dialog.InitialDirectory = location;
             dialog.Filter = "PNG|*.png|JPEG|*.jpg|BMP|*.bmp|GIF|*.gif";
 
             if(dialog.ShowDialog() == DialogResult.OK)
@@ -78,6 +78,13 @@ namespace Barcode
                 var result = reader.Decode(imgFile);
                 decodeTB.Text = result.Text;
             }
+        }
+
+        private void clearBtn_Click(object sender, EventArgs e)
+        {
+            barTB.Text = "";
+            decodeTB.Text = "";
+            pictureBox.Image = null;
         }
     }
 }
